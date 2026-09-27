@@ -24,6 +24,10 @@ Artık saat 3 olmuştu ve yola çıkma zamanı gelmişti. Yine ön yelken ile Ei
 
 ---
 
+![Heeg turunda uğradığımız yerler](assets/heeg-trip-map.svg)
+
+---
+
 [^box]: Kıçtan iskeleye bağlanılan, baş tarafında direkler bulunan bağlama alanı.
 [^vaargeul]: Hollandaca "seyir kanalı". Şamandıralarla işaretlenmiş, derinliği garanti edilen tekne trafiği güzergâhı.
 [^marrekrite]: Recreatieschap De Marrekrite; Friesland'ın göl ve su yollarındaki doğa alanlarında halka açık bağlama yerleri yapan ve bakımını üstlenen kamu kuruluşu. Bu bağlama yerleri de aynı isimle anılır.
