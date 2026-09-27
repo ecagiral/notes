@@ -1,3 +1,5 @@
+# On Software Architecture
+
 The idea of separating domain logic from infrastructure is a powerful way to build an application.
 
 In the ideal case, domain logic is a coherent unit with the single responsibility of defining business rules. But business rules need to interact with infrastructure.
