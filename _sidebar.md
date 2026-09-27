@@ -4,7 +4,7 @@
   - [Software Architecture](software/software-architecture.md)
 
 - Sailing
-  - [Heeg Trip](sailing/heeg-trip.md)
+  - [İlk Yelken Turu](sailing/heeg-trip.md)
 
 - Me
   - [About Me](me/about.md)
